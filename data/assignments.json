@@ -1,0 +1,47 @@
+[
+  {
+    "assignment_id": "a1",
+    "course_code": "CS-101",
+    "title": "Introduction to Programming Assignment 1",
+    "due_date": "2026-06-01",
+    "status": "Pending",
+    "github_issue_title": "Implement basic recursion algorithms",
+    "github_status": "open"
+  },
+  {
+    "assignment_id": "a2",
+    "course_code": "MATH-201",
+    "title": "Calculus II Integration Techniques",
+    "due_date": "2026-06-05",
+    "status": "In Progress",
+    "github_issue_title": null,
+    "github_status": null
+  },
+  {
+    "assignment_id": "a3",
+    "course_code": "CS-202",
+    "title": "Data Structures & Algorithms - Balanced Trees",
+    "due_date": "2026-05-25",
+    "status": "Completed",
+    "github_issue_title": "Implement AVL Tree balancing rotation logic",
+    "github_status": "closed"
+  },
+  {
+    "assignment_id": "a4",
+    "course_code": "CS-301",
+    "title": "Systems Programming - Socket Programming",
+    "due_date": "2026-05-20",
+    "status": "Pending",
+    "github_issue_title": "Write robust TCP multiplexer",
+    "github_status": "open"
+  },
+  {
+    "assignment_id": "a5",
+    "course_code": "LIT-110",
+    "title": "Shakespeare's Hamlet Analysis Essay",
+    "due_date": "2026-06-10",
+    "status": "In Progress",
+    "github_issue_title": null,
+    "github_status": null
+  }
+]

@@ -1,0 +1,25 @@
+name: academic_tracker
+version: 0.1.0
+dsl_version: 3
+backend: file
+tables:
+  - name: assignments
+    description: Academic assignments
+    format: json
+    source:
+      location: file:///home/borngreat/Desktop/studytech/data/assignments.json
+    columns:
+      - name: assignment_id
+        type: Utf8
+      - name: course_code
+        type: Utf8
+      - name: title
+        type: Utf8
+      - name: due_date
+        type: Utf8
+      - name: status
+        type: Utf8
+      - name: github_issue_title
+        type: Utf8
+      - name: github_status
+        type: Utf8
